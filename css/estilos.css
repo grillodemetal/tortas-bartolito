@@ -209,6 +209,31 @@ footer {
   background-color: #1ebe5d;
 }*/
 
+.en-construccion {
+  background-color: #FFFFFF;
+  max-width: 700px;
+  margin: 60px auto;
+  padding: 40px 30px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.en-construccion .icono {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+.en-construccion h2 {
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.en-construccion p {
+  color: #666666;
+  font-size: 16px;
+}
+
+
 
 
 
